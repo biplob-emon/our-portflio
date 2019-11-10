@@ -54,14 +54,10 @@ font-family: sans-serif;
 margin: 0;
 }
 .porfolio-section{
-widows: 1200px;
-overflow: hidden;
 
 background: #f6fdfd;
 
-margin: 0 auto;
-
-padding: 20px 15px;
+padding:100px;
 
 text-align: center;
 }
@@ -71,7 +67,7 @@ width: 33.33%;
 
 float: left;
 
-padding:15px 10px;
+padding:10px 0;
 
 box-sizing: border-box;
 
